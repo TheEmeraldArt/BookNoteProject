@@ -5,8 +5,8 @@ asyncpg==0.30.0
 psycopg2-binary==2.9.10
 loguru==0.7.3
 fastapi[standard]
-passlib
+passlib[bcrypt]
 python-jose
 prometheus_client
-bcrypt
+bcrypt==4.0.0
 psutil-7.1.3
