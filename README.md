@@ -1,3 +1,7 @@
+BookNoteProject - пет-проект в котором демонстрируются навыки работы с FastAPI, SQLAlchemy, Postgresql, Docker, Prometheus и др.
+
+Это система работы с API на примере с книгами.
+
 ИНСТРУКЦИЯ ПО ЗАПУСКУ ПРОЕКТА
 
 pip install pipenv - окружение
