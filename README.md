@@ -42,3 +42,5 @@ docker-compose up -d
 Запуск проекта:
 
 python start_up.py
+
+Взаимодействие с api осуществляется через  Swagger UI
